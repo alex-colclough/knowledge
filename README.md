@@ -1,4 +1,4 @@
-# A Practical Guide to working in Information Security professions
+# A Practical Guide to working in Information Security
 This guide will serve as a resource for those that are trying to learn more about cyber security and those trying to get into a tough job market. Note that the views expressed in this guide are strictly my opinions and not meant to serve as the way you **should* approach things -- this just comes from my experience with teaching students as well as how I managed to land a job. 
 
 # The Start
